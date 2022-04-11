@@ -1,0 +1,9 @@
+.shipping-container{
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+label{
+    display: block;
+}

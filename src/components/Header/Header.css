@@ -16,3 +16,16 @@
 .header a:hover {
     color: orange;
 }
+.sign-out{
+    border: none;
+    margin-left: 36px;
+    padding: 5px 8px;
+    border-radius: 3px;
+    background-color: #1C2B35;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+.sign-out:hover{
+    color: orange;
+}
